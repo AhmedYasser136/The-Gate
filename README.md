@@ -10,3 +10,5 @@ The project was built using the Blynk platform, with the client designated as th
 The device provides real-time control, ensuring that when one user opens the application, and another user simultaneously accesses it, there is an instant, seamless response when the open button is pressed.
 
 The device was successfully installed, tested, and is fully operational, meeting the client's requirements.
+
+# Don't forget to watch the video 🥰
