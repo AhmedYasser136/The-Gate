@@ -12,3 +12,7 @@ The device provides real-time control, ensuring that when one user opens the app
 The device was successfully installed, tested, and is fully operational, meeting the client's requirements.
 
 # Don't forget to watch the video 🥰
+
+
+https://github.com/AhmedYasser136/The-Gate/assets/117648009/e1b62eb1-3691-4efd-bb2e-eb70e6025999
+
